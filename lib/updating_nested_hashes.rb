@@ -40,7 +40,7 @@ def update_status
          {name: "Nurse", age: "44", attitude: "worried"}
          ]
       }
-   },
+   }
 
   # Write code that changes the status of both Romeo and Juliet from "alive" to "dead"
   # Code your solution here:
